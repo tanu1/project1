@@ -2,11 +2,12 @@
 #include<conio.h>
 void main()
 {
-int a,b,c,n;
+int a,b,c,d,n;
 printf("enter the number ");
 scanf("%d",n);
 a=12;
 b=23;
 c=a+b;
+d=c;
 getch();
 }
